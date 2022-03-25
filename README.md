@@ -2,15 +2,17 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/argoproj?style=social)](https://twitter.com/argoproj)
 [![Slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=slack)](https://argoproj.github.io/community/join-slack)
 
+
+![Argo Image](images/argo.png)
+
 # Awesome Argo
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
-![Argo Image](images/argo.png)
 
-This project is maintained and sponsored by [Akuity](https://akuity.io/).
+This project is maintained and sponsored by [Akuity](https://akuity.io/), the Enterprise Company for Argo Project.
 
-<img align="center" src="https://akuity.io/assets/images/logo-bitmap.png" alt="akuity" width="50%" height="50%">
+<img align="center" src="https://akuity.io/assets/images/logo-bitmap.png" alt="akuity" width="47%" height="50%">
 
 
 ## What is Argo?
